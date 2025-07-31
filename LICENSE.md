@@ -1,74 +1,78 @@
-# MDC_BucklingTool License Agreement – Academic Edition
+# 📄 MDC_BucklingTool – Academic License Agreement
 
 **Version:** 1.2  
-**Effective Date:** 15.0.2025  
-**Developer & Licensor:** Dr.-Ing. Heinz Wagner  
-**Contact:** mdc.buckling@proton.me  
+**Effective Date:** 31.07.2025  
+**Author & Licensor:** Dr.-Ing. Heinz Wagner  
+**Contact:** mdc.buckling@proton.me
 
 ---
 
 ## 📘 Scope of License
 
-This version of the MDC_BucklingTool is provided **free of charge** for **academic, research, and personal non-commercial use** only.
+This academic license grants the right to use the **MDC_BucklingTool** free of charge for:
 
-Use by universities, students, and independent researchers is permitted **under the following conditions**:
+- Academic research  
+- University teaching  
+- Student theses and dissertations  
+- Personal, non-commercial exploration
 
-- The tool may be used for scientific studies, teaching, and thesis work.
-- Any publication that uses this tool must cite the original paper and tool.
-- Redistribution of the tool is not permitted without permission.
+### Conditions:
+
+- Proper citation of the associated publication is **mandatory** in any resulting work:
+  
+  > Wagner H., *Structured Chaos*, Proceedings of the Royal Society A, 2025.
+
+- Redistribution, reverse engineering, or public reposting of the tool is **prohibited** without prior written consent.
 
 ---
 
 ## 🚫 Commercial Use
 
-**Commercial use is strictly prohibited** without a valid license agreement.  
-This includes, but is not limited to:
+**Commercial use is strictly forbidden** without a separate, valid license.  
+This includes (but is not limited to):
 
-- Use within companies, corporations, or commercial projects
-- Use in consulting, engineering services, or design optimization
-- Use in any context where structural savings, certification results, or financial gain are involved
+- Use by companies or organizations in design, certification, or optimization workflows  
+- Consulting, contract work, or any paid engineering services  
+- Any scenario involving structural weight reduction for profit
 
-If you are using this tool in a commercial setting, or on behalf of a commercial entity, you are **obliged to obtain a commercial license**.  
+➡️ If your usage relates to a commercial context or entity, you must obtain a valid license.
 
-### 💼 Commercial License Options
+### 💼 License Options
 
-Licenses are available for:
+Available licenses:
 
-- Freelancers
-- Startups
-- Medium-size companies
-- Large enterprises (including aerospace, automotive, defense)
+- Freelancers and consultants  
+- Startups and SMEs  
+- Large enterprises (e.g. aerospace, automotive, defense)
 
-For pricing and license tiers, please contact:
-
-> 📧 **mdc.buckling@proton.me**
+🔐 For license inquiries and pricing:  
+📩 **mdc.buckling@proton.me**
 
 ---
 
 ## ⚠️ Misuse and Violation
 
-Use of this tool in violation of the license terms may result in:
+Misuse of the tool or license violations may lead to:
 
-- Legal action for damages
-- Exclusion from future updates
-- Public disclosure of misuse
-
-You are responsible for ensuring that your use of the tool complies with the license terms.
+- Immediate suspension of access  
+- Exclusion from future updates or versions  
+- Legal action for damages  
+- Public listing of violators (in severe cases)
 
 ---
 
 ## 🛠️ Warranty Disclaimer
 
-This tool is provided “as is”, without any express or implied warranty.  
-The developer is not responsible for any losses, design failures, or damages resulting from its use.
+This tool is provided **“as is”**, without warranty of any kind.  
+The developer assumes **no liability** for design failures, economic loss, or misuse of the tool’s output.
 
 ---
 
 ## ⚖️ Governing Law
 
-This license is governed by the laws of the Federal Republic of Germany.  
+This license is governed by the laws of the **Federal Republic of Germany**.  
 Place of jurisdiction: **Braunschweig, Germany**
 
 ---
 
-**By using this tool, you acknowledge and accept these license terms.**
+**By using this tool, you agree to these license terms.**
